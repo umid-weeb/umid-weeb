@@ -13,7 +13,7 @@ Hi there 👋
 ---
 
 - 💻 I’m currently working on personal projects  
-- 📚 I’m currently learning Algorithms & C++  
+- 📚 I’m currently learning Algorithms & C++, Python, JavaScript  
 - 🌱 I’m improving problem-solving skills  
 - 🌍 Personal platform: https://www.pyzone.uz  
 - 💬 How to reach me: @pdp338 on Telegram  
