@@ -1,54 +1,20 @@
-<h1 align="center">Hi there 👋 I'm Ibrohim</h1>
+Hi there 👋
 
-<p align="center">
-  💻 Junior Web Developer <br>
-  🎓 Student at PDP University <br>
-  🚀 Future Software Engineer at Google
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hi, I’m Ibrohim — a passionate Junior Web Developer and student at PDP University.  
-My biggest goal is to become a Software Engineer at Google.
-
-I am constantly improving my problem-solving skills, learning algorithms, and building real-world projects.
-
----
-
-## 🌍 Projects
-
-- 🔥 Personal Platform: [www.pyzone.uz](https://www.pyzone.uz)
-- 🛒 Uzum Market Clone
-- 🤖 Robo Bot
-- 💻 Python Online Editor
-- 📈 My LeetCode Journey
-
----
-
-## 🏆 Competitive Programming
-
-<p align="center">
+<p align="left">
   <img src="https://www.codewars.com/users/umid-weeb/badges/large" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/umid__web?theme=dark&font=Karma&ext=contest" />
 </p>
 
----
-
-## 🎯 Current Focus
-
-- 📚 Algorithms & Data Structures  
-- ⚙️ C++ & Python Programming  
-- 🌐 Frontend Development  
-- 🇬🇧 IELTS Preparation  
+![](https://komarev.com/ghpvc/?username=umid-web)
 
 ---
 
-## 📫 Contact Me
-
-- 🌐 Website: https://www.pyzone.uz  
-- 💬 Telegram: @pdp338
+- 💻 I’m currently working on personal projects  
+- 📚 I’m currently learning Algorithms & C++  
+- 🌱 I’m improving problem-solving skills  
+- 🌍 Personal platform: https://www.pyzone.uz  
+- 💬 How to reach me: @pdp338 on Telegram  
+- ⚡ Fun fact: Future Software Engineer at Google
