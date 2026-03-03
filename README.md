@@ -12,8 +12,10 @@ Hi there 👋
 
 ---
 
-- 💻 I’m currently working on personal projects  
-- 📚 I’m currently learning Algorithms & C++, Python, JavaScript  
+- 💻 I’m currently working on personal projects
+- 🧾 Student at 42.uz, learning Algorithms.
+- 🧾 I studied at ALGORITM Study Center.
+- 📚 I’m currently learning Algorithms & Python, JavaScript, C++
 - 🌱 I’m improving problem-solving skills  
 - 🌍 Personal platform: https://www.pyzone.uz  
 - 💬 How to reach me: @pdp338 on Telegram  
