@@ -14,9 +14,8 @@ Hi there 👋
 
 - 💻 I’m currently working on personal projects
 - 🧾 Software Engineering student at PDP University.
-- 🧾 Learning Algorithms online at <a> https://www.42.uz</a>
-- 🧾 Currently learning Algorithms at https://www.42.uz
-- 🧾 I studied at ALGORITM Study Center.
+- 🧾 Learning Algorithms online at <a href=https://www.42.uz> 42.uz</a>
+- 🧾 I studied at <a href=https://kurslar.algoritmedu.uz/> Algoritm </a> Study Center.
 - 📚 I’m currently learning Algorithms & Python, JavaScript, C++
 - 🌱 I’m improving problem-solving skills  
 - 🌍 Personal platform: https://www.pyzone.uz  
