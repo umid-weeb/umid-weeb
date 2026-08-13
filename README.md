@@ -7,6 +7,9 @@ Hi there 👋
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/umid__web?theme=dark&font=Karma&ext=contest" />
 </p>
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/ThunderJawa749?theme=dark&font=Karma&ext=contest" alt="ThunderJawa749 LeetCode Stats" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=umid-web)
 
