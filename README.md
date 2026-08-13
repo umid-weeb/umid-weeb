@@ -8,7 +8,9 @@ Hi there 👋
   <img src="https://leetcard.jacoblin.cool/umid__web?theme=dark&font=Karma&ext=contest" />
 </p>
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/ThunderJawa749?theme=dark&font=Karma&ext=contest" alt="ThunderJawa749 LeetCode Stats" />
+  <a href="https://neetcode.io/user/ThunderJawa749" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ThunderJawa749?theme=dark&font=Karma&ext=contest" alt="ThunderJawa749 NeetCode Stats" />
+  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=umid-web)
