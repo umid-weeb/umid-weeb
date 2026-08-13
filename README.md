@@ -8,38 +8,24 @@ Hi there 👋
   <img src="https://leetcard.jacoblin.cool/umid__web?theme=dark&font=Karma&ext=contest" />
 </p>
 
-Ha, albatta — ancha chiroyli qilish mumkin ✅  
-NeetCode official card yo‘qligi uchun “custom card” ko‘rinish qilamiz (rasmdagiga yaqin).
-
-Shuni NeetCode qismiga almashtiring:
-
-
-
 <p align="left">
   <a href="https://neetcode.io/user/ThunderJawa749" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20NeetCode%20Profile-ThunderJawa749-111827?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Profile" />
+    <img src="https://img.shields.io/badge/NeetCode%20Profile-@ThunderJawa749-111827?style=for-the-badge&logo=bookstack&logoColor=white" alt="NeetCode Profile" />
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/NeetCode%20All-7%2F973-0f172a?style=for-the-badge" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Easy-5%2F224-16a34a?style=for-the-badge" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Medium-2%2F600-f59e0b?style=for-the-badge" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Hard-0%2F149-dc2626?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Solved-7%20%2F%20973-0f172a?style=for-the-badge&labelColor=111827&color=22c55e" alt="Total Solved" />
+</p>
 
 <p align="left">
-  <img src="https://progress-bar.xyz/1/?title=Solved&width=500&colorb=0f172a" alt="Solved Progress" />
+  <img src="https://img.shields.io/badge/Easy-5%20%2F%20224-16a34a?style=for-the-badge&labelColor=14532d" alt="Easy" />
+  <img src="https://img.shields.io/badge/Medium-2%20%2F%20600-f59e0b?style=for-the-badge&labelColor=78350f" alt="Medium" />
+  <img src="https://img.shields.io/badge/Hard-0%20%2F%20149-ef4444?style=for-the-badge&labelColor=7f1d1d" alt="Hard" />
+</p>
+
+<p align="left">
+  <img src="https://progress-bar.xyz/1/?title=Progress&width=560&color=22c55e&colorb=111827" alt="NeetCode Progress Bar" />
 </p>
 
 
