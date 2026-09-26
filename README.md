@@ -39,6 +39,6 @@ Hi there 👋
 - 🧾 I studied at <a href=https://kurslar.algoritmedu.uz/> Algoritm </a> Study Center.
 - 📚 I’m currently learning Algorithms & Python, JavaScript, C++
 - 🌱 I’m improving problem-solving skills  
-- 🌍 Personal platform: https://www.pyzone.uz  
-- 💬 How to reach me: @pdp338 on Telegram  
+- 🌍 Personal blog: https://www.ibroximjon.uz  
+- 💬 How to reach me: @pymuhandis on Telegram  
 - ⚡ Fun fact: Future Software Engineer at Google
